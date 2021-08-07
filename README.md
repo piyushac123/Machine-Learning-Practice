@@ -21,3 +21,5 @@
   ```
 - #### Optionally connect using SSH Tunneling
   - [How To Set Up Jupyter Notebook with Python 3 on Ubuntu 20.04 and Connect via SSH Tunneling](https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling)
+
+**Note** - *Can Open, Edit and Save Jupyter notebook present in Github on Google Colab directly. [[Using Google Colab with GitHub]](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)*
