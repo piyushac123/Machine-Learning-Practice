@@ -11,8 +11,8 @@
   sudo -H pip3 install virtualenv
   mkdir ~/my_project_dir
   cd ~/my_project_dir
-  * virtualenv my_project_env
-  * source my_project_env/bin/activate
+  virtualenv my_project_env
+  source my_project_env/bin/activate
   ```
 - #### Install Jupyter and Run Jupyter Notebook
   ```
