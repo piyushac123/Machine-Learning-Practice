@@ -7,3 +7,8 @@
 - Type Casting
 - Refitting and Updating parameters
 - Multiclass vs Multilabel fitting
+
+### Statistical Learning
+- #### Machine Learning 
+  - build prediction function that are useful in linking different observations, to classifying observations, or learning the structure in an unlabeled dataset.
+  - statistical inferences : drawing conclusion on dataset at hand
