@@ -22,3 +22,5 @@
   - Test target(Y) - prediction made by estimator on test data
   - Regression - goal is to predict continuous target variable
   - Classification - goal is to classify observations into set of finite labels
+- ### Classification
+  - K-nearest neighbour - given a new observation X_test, calculate distance from all train feature vector and assign mode of label of k nearest feature vector.
